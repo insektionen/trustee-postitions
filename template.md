@@ -3,8 +3,7 @@
 ## Name of Position
 ### Description
 What holding the position entails. Both what it means according to the chapter bylaws and what holders of the position have done in the position.
-##### Time Requirement
-An estimate of how much time will be spent over a period (month, term, year, ect.) holding that position.
+* **Time Requirement:** An estimate of how much time will be spent over a period (month, term, year, ect.) holding that position. More detalis such as how much time is spent during the more or less intense periods and when they occur are also good for better understanding of how much time it takes.
 ### Experiences gained
 The experiences one gains from holding the position.
 ### History
@@ -35,8 +34,8 @@ The experiences one gains from holding the position.
 ## Member of the board
 ### Description
 As a member of the board you perform all the board related tasks that are not handled by the precedium.
-##### Time Requirement
-10h / month.
+* **Time Requirement:** 10h / month.
+
 ### Experiences gained
 You learn to pick up small projects and learn what it – and it's subject – is about quickly.
 ### History
@@ -60,7 +59,7 @@ You learn to pick up small projects and learn what it – and it's subject – i
   <tr>
     <td>HT17</td>
     <td rowspan="2">
-      Jenny
+      Jenny Eklund-Isaksson
       <br />
       Emma Good
     </td>
