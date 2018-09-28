@@ -34,7 +34,7 @@ You learn to pick up small projects and learn what it – and it's subject – i
   <tr>
     <td>HT17</td>
     <td rowspan="2">
-      Jenny
+      Jenny Eklund-Isaksson
       <br />
       Emma Good
     </td>
