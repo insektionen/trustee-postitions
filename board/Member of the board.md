@@ -2,15 +2,17 @@
 
 ### Description
 
-As a member of the board you perform all the board related tasks that are not handled by the precedium.
+As a member of the board you perform all the board related tasks that are not handled by the precedium. Board members are responsible for working with the
+boards strategic questions as well as the areas the board consider
+important. You will attend board meetings and do smaller tasks such as writing descriptions for trustee-positions. You might also cook food for the chapter meetings
+The biggest task that you might do is plan the thankyou-party for all the trustees.
 
-##### Time Requirement
-
-10h / month.
+- **Access Privileges:** Kistan and the board room.
+- **Time Requirement:** 10h / month.
 
 ### Experiences gained
 
-You learn to pick up small projects and learn what it – and it's subject – is about quickly.
+You will learn how meetings are done and take responsibility for projects big and small.
 
 ### History
 
@@ -24,7 +26,7 @@ You learn to pick up small projects and learn what it – and it's subject – i
     <td rowspan="1">Anton Werelius</td>
   </tr>
   <tr>
-    <td>VT16</td>
+    <td>VT18</td>
     <td rowspan="1">
       Anton Werelius
       <br />
@@ -42,4 +44,16 @@ You learn to pick up small projects and learn what it – and it's subject – i
   <tr>
     <td>VT17</td>
   </tr>
+  <td>HT16</td>
+  <td rowspan="2">
+    Oskar Dahl
+    <br />
+    Steven Zhou
+  </td>
+</tr>
+<tr>
+  <td>VT16</td>
+</tr>
+</tr>
+<tr>
 </table>
