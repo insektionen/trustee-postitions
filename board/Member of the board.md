@@ -4,7 +4,7 @@
 
 As a member of the board you perform all the board related tasks that are not handled by the precedium. Board members are responsible for working with the
 boards strategic questions as well as the areas the board consider
-important. You will attend board meetings and do smaller tasks such as writing descriptions for trustee-positions. You might also cook food for the chapter meetings
+important. You will attend board meetings and do smaller tasks such as writing descriptions for trustee-positions. You might also cook food for the chapter meetings.
 The biggest task that you might do is plan the thankyou-party for all the trustees.
 
 - **Access Privileges:** Kistan and the board room.
